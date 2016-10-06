@@ -8,7 +8,7 @@ On server run the tunnel, the following:
 ```
 
 On the client, find gateway and its NIC, then go to client.sh:
-replace <server> with the IP address of the proxy server, <gateway> with gateway address
+replace \<server> with the IP address of the proxy server, \<gateway> with gateway address
 Make sure your DNS server can access the proxy
 
 Run the tunnel on the client: 
